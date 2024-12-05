@@ -28,50 +28,14 @@
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=django&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express.js-%23000000?style=flat-square&logo=express&logoColor=ffffff)
+![.NET Framework](https://img.shields.io/badge/-NET%20Framework-%234B7D6A?style=flat-square&logo=.net&logoColor=ffffff)
 
 ### Mobile App Development
 ![Android](https://img.shields.io/badge/-Android-%2300C851?style=flat-square&logo=android&logoColor=ffffff)
 
-
-
-
-
-
-
-
-
-
-- **** Laravel(PHP) , Django (Python) , Node.js with Express
-- **Frameworks & Libraries:** Bootstrap, jQuery
-- **Tools:** WampServer, PHPMailer, FPDF, Composer
-- **Database:** MySQL
-- **Other:** REST APIs, Payment Gateway Integration
-
-
-
----
-
-### Projects 📂
-- 🌐 **[Moroccan Crafts E-commerce](#)**: Showcasing traditional Moroccan crafts like tajines and ceramics with a user-friendly shopping experience.
-- 💻 **[Medical Practice Management App](#)**: Web application for scheduling and patient management in medical practices.
-
----
-
-### GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
----
-
-### Let's Connect! 🤝
-- 🌐 **Portfolio:** [your-website.com](#)
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)
-- 🐦 **Twitter:** [@yourhandle](#)
-
----
-
-### How to Set Up Your GitHub Profile README
-To create a similar README for your GitHub profile:
-1. Create a new repository with the same name as your GitHub username (e.g., `YourGitHubUsername`).
-2. Add a `README.md` file with the above content (customized to your details).
-3. Push the changes to GitHub, and the profile README will automatically appear on your profile.
+### Database 
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff) 
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff) 
+![Oracle](https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=oracle&logoColor=ffffff) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-%23FFCB2F?style=flat-square&logo=firebase&logoColor=ffffff)
