@@ -4,8 +4,8 @@
 
 
 ### About Me 🌟
-- <h1 align="center">Hi 👋, I'm Marzouki Mohammed</h1>
-- 👨‍🎓 **Student in Computer Engineering** at <strong>Université Sidi Mohamed Ben Abdellah École Nationale des Sciences Appliquées</strong> in Fes, Morocco.
+ <h1 align="center">Hi 👋, I'm Marzouki Mohammed</h1>
+ 👨‍🎓 **Student in Computer Engineering** at <strong>Université Sidi Mohamed Ben Abdellah École Nationale des Sciences Appliquées</strong> in Fes, Morocco.
 ---
 ### Skills and Technologies 🚀
 - <h3>Languages :<h3>
