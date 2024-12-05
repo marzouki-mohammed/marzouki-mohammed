@@ -1,11 +1,10 @@
 # Welcome to My GitHub Profile! 👋
 
-![Profile Banner](https://via.placeholder.com/800x200?text=Your+Custom+Banner)
-*(Optional: Add a banner image that reflects your interests or work)*
 
----
 
 ### About Me 🌟
+- <h1 align="center">Hi 👋, I'm Marzouki Mohammed</h1>
+- 👨‍🎓 **Student in Computer Engineering** at Université Sidi Mohamed Ben Abdellah École Nationale des Sciences Appliquées in Fes, Morocco.
 - 🔭 **Currently working on:** Building an e-commerce website focused on traditional Moroccan products.
 - 🌱 **Learning:** Advanced PHP, APIs, and integrating online payment systems.
 - 💬 **Ask me about:** Web development, MySQL, or e-commerce architecture.
