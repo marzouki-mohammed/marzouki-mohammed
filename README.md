@@ -8,7 +8,7 @@
 - 👨‍🎓 **Student in Computer Engineering** at <strong>Université Sidi Mohamed Ben Abdellah École Nationale des Sciences Appliquées</strong> in Fes, Morocco.
 ---
 ### Skills and Technologies 🚀
-- **Languages:** Python , Java , C , C++ , C# , Dart , JavaScript , TypeScript ,  PHP
+- **Languages:** Python , Java , C , C++ , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="20" height="20"/>C# , Dart , JavaScript , TypeScript ,  PHP
 - **Frontend Development** HTML/CSS , React ,<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/> Angular, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/>Bootstrap
 - **Backend Development** Laravel(PHP) , Django (Python) , Node.js with Express
 - **Frameworks & Libraries:** Bootstrap, jQuery
