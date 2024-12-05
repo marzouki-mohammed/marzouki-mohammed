@@ -29,6 +29,9 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express.js-%23000000?style=flat-square&logo=express&logoColor=ffffff)
 
+### Mobile App Development
+![Android](https://img.shields.io/badge/-Android-%2300C851?style=flat-square&logo=android&logoColor=ffffff)
+
 
 
 
