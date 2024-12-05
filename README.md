@@ -9,7 +9,7 @@
 ---
 ### Skills and Technologies 🚀
 <h3 align="left">Languages :</h3>
-Python , Java , C , C++ , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> , Dart , JavaScript , TypeScript ,  PHP
+Python , Java , C , C++ , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>C# , Dart , JavaScript , <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>TypeScript ,  PHP
 - **Frontend Development** HTML/CSS , React ,<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/> Angular, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/>Bootstrap
 - **Backend Development** Laravel(PHP) , Django (Python) , Node.js with Express
 - **Frameworks & Libraries:** Bootstrap, jQuery
