@@ -9,7 +9,7 @@
 ---
 ### Skills and Technologies 🚀
 - **Languages:** Python , Java , C , C++ , C# , Dart , JavaScript , TypeScript ,  PHP
-- **Frontend Development** HTML/CSS , React ,<div style="width: 200px;height: 100px;background-color: #3498db;border: 2px solid #2c3e50; "><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/> Angular</div>  , Bootstrap
+- **Frontend Development** HTML/CSS , React ,<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/> Angular</div>  , Bootstrap
 - **Backend Development** Laravel(PHP) , Django (Python) , Node.js with Express
 - **Frameworks & Libraries:** Bootstrap, jQuery
 - **Tools:** WampServer, PHPMailer, FPDF, Composer
