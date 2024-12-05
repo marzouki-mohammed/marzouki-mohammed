@@ -9,44 +9,46 @@
 ---
 ### Skills and Technologies 🚀
 <h3 align="left">Languages :</h3>
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-    <div style="margin: 10px; text-align: center;">
-        <p>Python</p>
+<div style="display: flex; gap: 20px; align-items: center;">
+    <div style="text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+        <p>Python</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
-        <p>Java</p>
+    <div style="text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+        <p>Java</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
-        <p>C</p>
+    <div style="text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+        <p>C</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
-        <p>C++</p>
+    <div style="text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+        <p>C++</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
-        <p>C#</p>
+    <div style="text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+        <p>C#</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
-        <p>Dart</p>
+    <div style="text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" />
+        <p>Dart</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
-        <p>JavaScript</p>
+    <div style="text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+        <p>JavaScript</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
-        <p>TypeScript</p>
+    <div style="text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
+        <p>TypeScript</p>
     </div>
-    <div style="margin: 10px; text-align: center;">
-        <p>PHP</p>
+    <div style="text-align: center;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+        <p>PHP</p>
     </div>
 </div>
+
+
 
 - **Frontend Development** HTML/CSS , React ,<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="20" height="20"/> Angular, <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="20" height="20"/>Bootstrap
 - **Backend Development** Laravel(PHP) , Django (Python) , Node.js with Express
