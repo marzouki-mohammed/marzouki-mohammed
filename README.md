@@ -5,15 +5,11 @@
 ### About Me 🌟
 - <h1 align="center">Hi 👋, I'm Marzouki Mohammed</h1>
 - 👨‍🎓 **Student in Computer Engineering** at <strong>Université Sidi Mohamed Ben Abdellah École Nationale des Sciences Appliquées</strong> in Fes, Morocco.
-- 🔭 **Currently working on:** Building an e-commerce website focused on traditional Moroccan products.
-- 🌱 **Learning:** Advanced PHP, APIs, and integrating online payment systems.
-- 💬 **Ask me about:** Web development, MySQL, or e-commerce architecture.
-- ⚡ **Fun fact:** I love exploring Moroccan crafts and integrating them into digital platforms.
-
 ---
-
 ### Skills and Technologies 🚀
-- **Languages:** PHP, JavaScript, HTML, CSS, SQL
+- **Languages:** Python , Java , C , C++ , C# , Dart , JavaScript , TypeScript ,  PHP
+- **Frontend Development** HTML/CSS , React , <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> Angular , Bootstrap
+- **Backend Development** Laravel(PHP) , Django (Python) , Node.js with Express
 - **Frameworks & Libraries:** Bootstrap, jQuery
 - **Tools:** WampServer, PHPMailer, FPDF, Composer
 - **Database:** MySQL
