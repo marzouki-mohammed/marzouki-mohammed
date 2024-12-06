@@ -16,24 +16,24 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-%23777BB4?style=flat-square&logo=php&logoColor=ffffff)
 
-### Frontend Development
+### Frontend Development :
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=000000)
 ![](https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=ffffff)
 ![](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
 
-### Backend Development
+### Backend Development :
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=django&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express.js-%23000000?style=flat-square&logo=express&logoColor=ffffff)
 ![.NET Framework](https://img.shields.io/badge/-NET%20Framework-%234B7D6A?style=flat-square&logo=.net&logoColor=ffffff)
 
-### Mobile App Development
+### Mobile App Development :
 ![Android](https://img.shields.io/badge/-Android-%2300C851?style=flat-square&logo=android&logoColor=ffffff)
 
-### Database 
+### Database :
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=ffffff) 
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff) 
 ![Oracle](https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=oracle&logoColor=ffffff) 
