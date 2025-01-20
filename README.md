@@ -29,7 +29,8 @@
 ![Django](https://img.shields.io/badge/-Django-%23092E20?style=flat-square&logo=django&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express.js-%23000000?style=flat-square&logo=express&logoColor=ffffff)
-![.NET Framework](https://img.shields.io/badge/-NET%20Framework-%234B7D6A?style=flat-square&logo=.net&logoColor=ffffff)
+![.NET](https://img.shields.io/badge/-.NET-%23512BD4?style=flat-square&logo=.net&logoColor=ffffff)
+
 
 
 ### Mobile App Development :
