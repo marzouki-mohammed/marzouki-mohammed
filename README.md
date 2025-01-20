@@ -20,8 +20,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=000000)
-![](https://img.shields.io/badge/-Angular-%23DD0031?style=flat-square&logo=angular&logoColor=ffffff)
-![](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+
 
 ### Backend Development :
 ![Laravel](https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat-square&logo=laravel&logoColor=ffffff)
@@ -29,6 +30,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Express](https://img.shields.io/badge/-Express.js-%23000000?style=flat-square&logo=express&logoColor=ffffff)
 ![.NET Framework](https://img.shields.io/badge/-NET%20Framework-%234B7D6A?style=flat-square&logo=.net&logoColor=ffffff)
+
 
 ### Mobile App Development :
 ![Android](https://img.shields.io/badge/-Android-%2300C851?style=flat-square&logo=android&logoColor=ffffff)
@@ -38,4 +40,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=ffffff) 
 ![Oracle](https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=oracle&logoColor=ffffff) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23316192?style=flat-square&logo=postgresql&logoColor=ffffff)
+
+### Backend as a Service(BaaS)
 ![Firebase](https://img.shields.io/badge/-Firebase-%23FFCB2F?style=flat-square&logo=firebase&logoColor=ffffff)
+
