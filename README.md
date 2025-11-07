@@ -138,4 +138,3 @@
 
 ---
 
-⭐ *"Building intelligent, scalable, and impactful digital solutions."*
