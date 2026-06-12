@@ -1,12 +1,10 @@
-# Welcome to My GitHub Profile!
+# Welcome!
 
 ## About Me 🌟
 <h3 align="center">Hi 👋, I'm Marzouki Mohammed</h3>
 
-👨‍🎓 <strong>Student in Computer Engineering</strong> at <strong>Université Sidi Mohamed Ben Abdellah – École Nationale des Sciences Appliquées</strong> in Fes, Morocco.
-
+👨‍🎓 <strong>Computer Engineering</strong>
 💡 Passionate about software engineering, web and mobile development, artificial intelligence, and DevOps.
-
 <hr>
 
 ## 🛠️ Skills and Technologies
