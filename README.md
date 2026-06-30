@@ -1,11 +1,91 @@
-# Welcome!
+<div align="center">
 
-## About Me 🌟
-<h3 align="center">Hi 👋, I'm Marzouki Mohammed</h3>
+<!-- ============== TYPING HEADER ============== -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammed+Marzouki;Computer+Engineer;Full-Stack+%7C+AI+%7C+DevOps" alt="Typing SVG" />
+</a>
 
-👨‍🎓 <strong>Computer Engineering</strong>
-💡 Passionate about software engineering, web and mobile development, artificial intelligence, and DevOps.
-<hr>
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" />
+  </a>
+  <a href="https://YOUR-USERNAME.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=39FF14" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=39FF14&labelColor=000000" alt="Profile views" />
+
+</div>
+
+<br>
+
+<!-- ============== ROW 1 : STATS + STREAK ============== -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=ffffff&border_color=39FF14" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=ffffff&dates=ffffff" />
+</p>
+
+<!-- ============== ROW 2 : TOP LANGUAGES + TROPHIES ============== -->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=39FF14&text_color=ffffff&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=darkhub&no-frame=true&row=1&column=7" />
+</p>
+
+<!-- ============== ACTIVITY GRAPH ============== -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=react-dark&hide_border=true&bg_color=000000&color=39FF14&line=39FF14&point=ffffff" />
+</p>
+
+<br>
+
+<hr style="border-color:#39FF14">
+
+## 🌍 Starred topics
+
+<p align="center">
+  <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&hide_title=true&layout=compact&theme=dark&hide_border=true&bg_color=000000&text_color=ffffff&langs_count=20" />
+</p>
+
+<hr style="border-color:#39FF14">
+
+## ⚡ Recent activity
+
+<!--START_SECTION:activity-->
+<!-- Cette section se met à jour automatiquement via GitHub Action (voir instructions en bas) -->
+1. 🔀 Opened a Pull Request
+2. 💬 Commented on an issue
+3. 🎉 Merged a Pull Request
+4. ❗ Closed an issue
+<!--END_SECTION:activity-->
+
+<hr style="border-color:#39FF14">
+
+## 🏆 Productivity tracker
+
+<table align="center">
+<tr><td>
+
+```text
+🏆 2,878 Karma Points
+🎯 Completed 7 tasks today
+📋 Completed 16 tasks this week
+✅ Completed 160 tasks so far
+🔥 Longest streak is 10 days
+```
+
+</td></tr>
+</table>
+
+<p align="center"><sub>Powered by your task manager of choice — connect via GitHub Action (see setup notes below)</sub></p>
+
+<hr style="border-color:#39FF14">
 
 ## 🛠️ Skills and Technologies
 
@@ -51,9 +131,9 @@
 
 ### 🔗 Web APIs & Security
 - **RESTful API Design & Consumption**
-- **Secure Authentication**: JWT, OAuth2, Laravel Sanctum, Clerk  
-- **GraphQL**  
-- **Web Security**: XSS / CSRF prevention, SQL Injection protection, Role & Permission Management  
+- **Secure Authentication**: JWT, OAuth2, Laravel Sanctum, Clerk
+- **GraphQL**
+- **Web Security**: XSS / CSRF prevention, SQL Injection protection, Role & Permission Management
 
 ---
 
@@ -95,11 +175,11 @@
 ---
 
 ### 🤖 Data, AI & Business Intelligence
-**Data Analysis:** Pandas, NumPy, Excel  
-**Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
-**Machine Learning / Deep Learning:** Scikit-learn, TensorFlow, PyTorch  
-**Natural Language Processing:** SpaCy, NLTK, Hugging Face Transformers  
-**Generative AI:** RAG (Retrieval-Augmented Generation), LangChain, OpenAI APIs, n8n  
+**Data Analysis:** Pandas, NumPy, Excel
+**Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau
+**Machine Learning / Deep Learning:** Scikit-learn, TensorFlow, PyTorch
+**Natural Language Processing:** SpaCy, NLTK, Hugging Face Transformers
+**Generative AI:** RAG (Retrieval-Augmented Generation), LangChain, OpenAI APIs, n8n
 
 ---
 
@@ -110,15 +190,15 @@
 ![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
 ![Azure](https://img.shields.io/badge/-Azure-%230072C6?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
-- CI/CD Pipelines  
-- Version Control & Containerization  
+- CI/CD Pipelines
+- Version Control & Containerization
 
 ---
 
 ### 🧰 Development Tools
-**IDEs:** Visual Studio, VS Code, Android Studio, IntelliJ IDEA, NetBeans, Eclipse  
-**Design Tools:** Draw.io, Lucidchart, Figma  
-**Virtualization / Environment:** XAMPP, WAMP, Docker, VirtualBox  
+**IDEs:** Visual Studio, VS Code, Android Studio, IntelliJ IDEA, NetBeans, Eclipse
+**Design Tools:** Draw.io, Lucidchart, Figma
+**Virtualization / Environment:** XAMPP, WAMP, Docker, VirtualBox
 
 ---
 
@@ -134,5 +214,18 @@
 - 🇲🇦 Arabic (Native)
 - 🇬🇧 English (Professional)
 
----
+<hr style="border-color:#39FF14">
 
+<div align="center">
+
+### 💬 Ask me anything
+
+<img src="https://img.shields.io/badge/Ask%20me-about%20anything-39FF14?style=for-the-badge&labelColor=000000" />
+
+<br><br>
+
+[![Downloads](https://img.shields.io/badge/downloads-1%2Fday-39FF14?style=for-the-badge&labelColor=000000)](https://github.com/YOUR-USERNAME)
+[![Forks](https://img.shields.io/github/forks/YOUR-USERNAME/YOUR-REPO?style=for-the-badge&color=39FF14&labelColor=000000)](https://github.com/YOUR-USERNAME)
+[![Stars](https://img.shields.io/github/stars/YOUR-USERNAME?style=for-the-badge&color=39FF14&labelColor=000000)](https://github.com/YOUR-USERNAME)
+
+</div>
