@@ -1,10 +1,43 @@
-# Welcome!
+<h1 align="center">Hi 👋, I'm Mohammed Marzouki</h1>
+<h3 align="center">Computer Engineer | Software Engineering · Web & Mobile Dev · AI · DevOps</h3>
 
-## About Me 🌟
-<h3 align="center">Hi 👋, I'm Marzouki Mohammed</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://YOUR-USERNAME.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-👨‍🎓 <strong>Computer Engineering</strong>
-💡 Passionate about software engineering, web and mobile development, artificial intelligence, and DevOps.
+<br>
+
+<!-- ============== GITHUB STATS ROW ============== -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- ============== TOP LANGUAGES ============== -->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<!-- ============== CONTRIBUTION GRAPH ============== -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyo-night&hide_border=true" />
+</p>
+
+<!-- ============== TROPHIES ============== -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<br>
+
 <hr>
 
 ## 🛠️ Skills and Technologies
@@ -51,9 +84,9 @@
 
 ### 🔗 Web APIs & Security
 - **RESTful API Design & Consumption**
-- **Secure Authentication**: JWT, OAuth2, Laravel Sanctum, Clerk  
-- **GraphQL**  
-- **Web Security**: XSS / CSRF prevention, SQL Injection protection, Role & Permission Management  
+- **Secure Authentication**: JWT, OAuth2, Laravel Sanctum, Clerk
+- **GraphQL**
+- **Web Security**: XSS / CSRF prevention, SQL Injection protection, Role & Permission Management
 
 ---
 
@@ -95,11 +128,11 @@
 ---
 
 ### 🤖 Data, AI & Business Intelligence
-**Data Analysis:** Pandas, NumPy, Excel  
-**Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
-**Machine Learning / Deep Learning:** Scikit-learn, TensorFlow, PyTorch  
-**Natural Language Processing:** SpaCy, NLTK, Hugging Face Transformers  
-**Generative AI:** RAG (Retrieval-Augmented Generation), LangChain, OpenAI APIs, n8n  
+**Data Analysis:** Pandas, NumPy, Excel
+**Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau
+**Machine Learning / Deep Learning:** Scikit-learn, TensorFlow, PyTorch
+**Natural Language Processing:** SpaCy, NLTK, Hugging Face Transformers
+**Generative AI:** RAG (Retrieval-Augmented Generation), LangChain, OpenAI APIs, n8n
 
 ---
 
@@ -110,15 +143,15 @@
 ![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
 ![Azure](https://img.shields.io/badge/-Azure-%230072C6?style=flat-square&logo=microsoft-azure&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-%23232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
-- CI/CD Pipelines  
-- Version Control & Containerization  
+- CI/CD Pipelines
+- Version Control & Containerization
 
 ---
 
 ### 🧰 Development Tools
-**IDEs:** Visual Studio, VS Code, Android Studio, IntelliJ IDEA, NetBeans, Eclipse  
-**Design Tools:** Draw.io, Lucidchart, Figma  
-**Virtualization / Environment:** XAMPP, WAMP, Docker, VirtualBox  
+**IDEs:** Visual Studio, VS Code, Android Studio, IntelliJ IDEA, NetBeans, Eclipse
+**Design Tools:** Draw.io, Lucidchart, Figma
+**Virtualization / Environment:** XAMPP, WAMP, Docker, VirtualBox
 
 ---
 
@@ -134,5 +167,8 @@
 - 🇲🇦 Arabic (Native)
 - 🇬🇧 English (Professional)
 
----
+<br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=blue" alt="Profile views" />
+</p>
