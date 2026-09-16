@@ -22,7 +22,6 @@
 <li>🧩 4 internships across <strong>Python (Flask)</strong>, <strong>Java (Spring Boot)</strong> and <strong>.NET (ASP.NET Core/MVC)</strong> stacks, two in real commercial engagements</li>
 <li>🤖 Passionate about <strong>AI / RAG systems</strong>, <strong>DevOps</strong>, and shipping full-stack products end-to-end</li>
 <li>📍 Based in casablanca, Morocco</li>
-<li>🚀 Looking for a <strong>Software Engineer</strong> role starting <strong>September 2026</strong></li>
 </ul>
 
 <br>
