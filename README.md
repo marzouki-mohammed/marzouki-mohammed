@@ -18,7 +18,7 @@
 
 <ul>
 <li>🎓 Engineering Degree in Computer Science — <strong>ENSA Fès</strong> (2021 – 2026)</li>
-<li>💼 Currently <strong>Software Developer @ KBM Consulting</strong> — ASP.NET MVC, C#, SQL Server</li>
+<li>💼 Currently <strong>Software Developer — ASP.NET MVC, C#, SQL Server</li>
 <li>🧩 4 internships across <strong>Python (Flask)</strong>, <strong>Java (Spring Boot)</strong> and <strong>.NET (ASP.NET Core/MVC)</strong> stacks, two in real commercial engagements</li>
 <li>🤖 Passionate about <strong>AI / RAG systems</strong>, <strong>DevOps</strong>, and shipping full-stack products end-to-end</li>
 <li>📍 Based in Fès, Morocco</li>
